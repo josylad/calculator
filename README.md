@@ -1,5 +1,5 @@
 # A Basic JS Calculator
-#### A Basic Calculator, {11/07/2019}
+#### A Basic Calculator, 11/07/2019
 #### By **Joseph Adediji**
 ## Description
 This is a simple calculator for Addition, substraction, multiplication and division. 
@@ -10,11 +10,11 @@ This is a simple calculator for Addition, substraction, multiplication and divis
 * Enjoy
 {This is a simple HTML and JS calculator website, so you do not need any special dependencies or advanced tools}
 ## Known Bugs
-{No known bugs at the moment.}
+No known bugs at the moment.
 ## Technologies Used
-{ HTML and Javascript}
+ HTML and Javascript
 ## Support and contact details
-{http://twitter.com/josylad}
+http://twitter.com/josylad
 ### License
-*{MIT}*
-Copyright (c) {2019} **{Joseph Adediji}**
+*MIT*
+Copyright (c) 2019 **Joseph Adediji**
